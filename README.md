@@ -101,8 +101,6 @@ gradlew assembleDebug
 
 ---
 
-**Observação:** Para adicionar os prints, tire screenshots do app em execução e salve-os na pasta `screenshots/` com os nomes correspondentes mencionados acima.
-
 ## 📖 Estrutura do Projeto
 
 ```
