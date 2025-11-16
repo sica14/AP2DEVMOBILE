@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">Fitness Lifestyle Quiz</string>
+    <string name="app_logo">Logo do App</string>
+
+    <!-- Main Activity -->
+    <string name="welcome_title">Bem-vindo ao Quiz de Saúde!</string>
+    <string name="welcome_subtitle">Descubra seu perfil fitness e receba recomendações personalizadas</string>
+    <string name="start_button">Começar Quiz</string>
+    <string name="your_name">Seu nome:</string>
+    <string name="name_hint">Digite seu nome</string>
+
+    <!-- Tela 2 - Physical Activity -->
+    <string name="tela2_title">Atividade Física</string>
+    <string name="tela2_question1">Com que frequência você se exercita?</string>
+    <string name="tela2_question2">Qual tipo de exercício você prefere?</string>
+    <string name="tela2_next">Próximo</string>
+
+    <!-- Tela 3 - Nutrition -->
+    <string name="tela3_title">Nutrição e Alimentação</string>
+    <string name="tela3_question1">Quantas refeições você faz por dia?</string>
+    <string name="tela3_question2">Você bebe água suficiente?</string>
+    <string name="tela3_question3">Você consome fast food?</string>
+    <string name="tela3_next">Próximo</string>
+
+    <!-- Tela 4 - Lifestyle -->
+    <string name="tela4_title">Estilo de Vida</string>
+    <string name="tela4_question1">Quantas horas você dorme por noite?</string>
+    <string name="tela4_question2">Nível de estresse:</string>
+    <string name="tela4_question3">Você fuma?</string>
+    <string name="tela4_question4">Selecione seus objetivos:</string>
+    <string name="tela4_next">Ver Resultado</string>
+
+    <!-- Tela 5 - Results -->
+    <string name="tela5_title">Seu Resultado</string>
+    <string name="tela5_share">Compartilhar</string>
+    <string name="tela5_restart">Refazer Quiz</string>
+    <string name="tela5_learn_more">Saiba Mais</string>
+    <string name="tela5_contact">Fale Conosco</string>
+
+    <!-- Frequency options -->
+    <string name="freq_daily">Diariamente</string>
+    <string name="freq_3_5">3–5 vezes por semana</string>
+    <string name="freq_1_2">1–2 vezes por semana</string>
+    <string name="freq_rarely">Raramente/Nunca</string>
+
+    <!-- Exercise types -->
+    <string name="exercise_cardio">Cardio</string>
+    <string name="exercise_strength">Musculação</string>
+    <string name="exercise_yoga">Yoga/Pilates</string>
+    <string name="exercise_sports">Esportes</string>
+    <string name="exercise_none">Nenhum</string>
+
+    <!-- Goals -->
+    <string name="goal_weight_loss">Perder peso</string>
+    <string name="goal_muscle_gain">Ganhar massa muscular</string>
+    <string name="goal_health">Melhorar saúde</string>
+    <string name="goal_energy">Mais energia</string>
+
+    <!-- Water consumption -->
+    <string name="water_yes">Sim (2L ou mais)</string>
+    <string name="water_sometimes">Às vezes</string>
+    <string name="water_no">Não</string>
+
+    <!-- Fast food -->
+    <string name="fastfood_daily">Diariamente</string>
+    <string name="fastfood_weekly">Semanalmente</string>
+    <string name="fastfood_rarely">Raramente</string>
+    <string name="fastfood_never">Nunca</string>
+
+    <!-- Stress levels -->
+    <string name="stress_low">Baixo</string>
+    <string name="stress_medium">Médio</string>
+    <string name="stress_high">Alto</string>
+</resources>
